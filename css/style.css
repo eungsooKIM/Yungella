@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Jua&family=Noto+Serif+KR:wght@200;900&display=swap');
 
 body {
-    background-image: url('/02/img/nasa.jpg');
+    background-image: url('../02/img/nasa.jpg');
     background-repeat: no-repeat;
     background-color:cadetblue;
 }
