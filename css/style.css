@@ -3,10 +3,9 @@
 
 body {
   margin: 0;
+  background-repeat: no-repeat;
+  background-color:#393E46
   
-    
-    background-repeat: no-repeat;
-    background-color:#393E46
 }
 
     #logotext {
@@ -19,7 +18,7 @@ body {
     }
     #text {
         font-family: 'Noto Serif KR', serif;
-                color:whitesmoke;
+        color:whitesmoke;
         font-size: 25px;
         width: 100%;
         position: absolute;
@@ -88,3 +87,9 @@ footer{
     font-size:20px;  /* 글자 크기 */ 
     color:rgb(196, 202, 237);   /* 글자 색 */ 
   } 
+  ul{
+    list-style:none;
+    }
+   li{
+     list-style:none;
+     }
