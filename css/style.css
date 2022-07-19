@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Jua&family=Noto+Serif+KR:wght@200;900&display=swap');
 
 body {
-    background-image: url('../img/nasa.jpg');
+  margin: 0;
+    background-image: url('/02/img/nasa.jpg');
     background-repeat: no-repeat;
     background-color:cadetblue;
 }
@@ -11,7 +12,7 @@ body {
         font-family: 'Dongle', sans-serif;
         color:#fff;
         font-size: 50px;
-        width: 1200px;
+        width: 100%;
         margin: 20px auto;
         top: 100px;
     }
@@ -19,6 +20,7 @@ body {
         font-family: 'Noto Serif KR', serif;
         color:whitesmoke;
         font-size: 25px;
+        width: 100%;
         position: absolute;
         left: 850px;
         top: 400px;
